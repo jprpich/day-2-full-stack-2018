@@ -1,8 +1,6 @@
 # Class day 2.
 
-This is the readme for
-[*day 2:
-Learn Web Development!*]
+This is the readme for day 2 Learn Web Development!
 
 ## Getting started
 
