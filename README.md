@@ -1,14 +1,8 @@
-# Class day 2. Makeitreal.camp
+# Class day 2.
 
 This is the readme for
-[*Makeitreal.camp day 2:
+[*day 2:
 Learn Web Development!*]
-
-
-## License
-
-All source code in the [Day 2 Repository]
-is available under the MIT License.
 
 ## Getting started
 
